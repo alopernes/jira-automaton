@@ -1,0 +1,7 @@
+{
+    "require": {
+        "lesstif/php-jira-rest-client": "^1.37",
+        "vlucas/phpdotenv": "^3.3",
+        "rap2hpoutre/remove-stop-words": "^0.2.0"
+    }
+}
